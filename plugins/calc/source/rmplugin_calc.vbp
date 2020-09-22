@@ -1,0 +1,37 @@
+Type=OleDll
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\system32\stdole2.tlb#OLE Automation
+Reference=*\G{42D45D41-F7D3-4CBE-88E6-3BFE7698EB98}#3.0#0#C:\WINDOWS\system32\rmplugin_defs.dll#rmplugin_defs
+Class=rmplugin_calculator; rmplugin_calculator.cls
+Form=frmCalc.frm
+Startup="(None)"
+ExeName32="rmplugin_calc.dll"
+Path32="..\.."
+Command32=""
+Name="rmplugin_calc"
+HelpContextID="0"
+CompatibleMode="0"
+CompatibleEXE32="..\rmplugin_calc.dll"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=1
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+ThreadingModel=1
+
+[MS Transaction Server]
+AutoRefresh=1
